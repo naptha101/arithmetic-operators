@@ -19,31 +19,31 @@ console.log(math.multiply(2, 6)); // Output: 12
 console.log(math.divide(8, 2)); // Output: 4
 
 ## Available Functions
-## Basic Arithmetic
+**Basic Arithmetic**
 add(a, b): Addition of two numbers.
 subtract(a, b): Subtraction of two numbers.
 multiply(a, b): Multiplication of two numbers.
 divide(a, b): Division of two numbers.
 
-## Exponential and Logarithmic
+**Exponential and Logarithmic**
 power(a, b): Exponential power of a to the bth degree.
 squareRoot(a): Square root of a number (a >= 0).
 log(a): Natural logarithm of a positive number (a > 0).
 
-## Absolute and Rounding
+**Absolute and Rounding**
 absolute(a): Absolute value of a number.
 round(a): Round to the nearest integer.
 floor(a): Round down to the nearest integer.
 ceil(a): Round up to the nearest integer.
 
-## Random Number
+**Random Number**
 random(): Generate a random number between 0 (inclusive) and 1 (exclusive).
 
-## Additional Arithmetic Operations
+**Additional Arithmetic Operations**
 remainder(a, b): Remainder of the division of a by b.
 factorial(a): Factorial of a non-negative integer a.
 
-## Additional Mathematical Functions
+**Additional Mathematical Function**s
 square(a): Square of a number.
 cube(a): Cube of a number.
 double(a): Double of a number.
@@ -56,25 +56,25 @@ isOdd(a): Check if a number is odd.
 max(a, b): Maximum of two numbers.
 min(a, b): Minimum of two numbers.
 
-## Trigonometric Functions
+**Trigonometric Functions**
 sin(a): Sine of an angle.
 cos(a): Cosine of an angle.
 tan(a): Tangent of an angle.
 
-## Hyperbolic Functions
+**Hyperbolic Functions**
 sinh(a): Hyperbolic sine of an angle.
 cosh(a): Hyperbolic cosine of an angle.
 tanh(a): Hyperbolic tangent of an angle.
 
-## Logarithmic Functions
+**Logarithmic Functions**
 log2(a): Base 2 logarithm of a number.
 log10(a): Base 10 logarithm of a number.
 
-## Angular Conversion
+**Angular Conversion**
 degreesToRadians(degrees): Convert degrees to radians.
 radiansToDegrees(radians): Convert radians to degrees.
 
-## Statistical Functions
+**Statistical Functions**
 mean(...numbers): Mean (average) of numbers.
 median(...numbers): Median of numbers.
 
