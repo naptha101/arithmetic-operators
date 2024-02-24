@@ -1,0 +1,19 @@
+{
+  "name": "arithmetic-op",
+  "version": "1.0.0",
+  "description": "\"A simple arithmetic utility library for performing basic mathematical operations. This package includes functions for addition, subtraction, multiplication, and division, making it easy to perform common arithmetic tasks in JavaScript. Whether you're building a calculator application or need a set of reliable utility functions for numerical calculations, this package has you covered.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[\"arithmetic\"",
+    "\"math\"",
+    "\"utilities\"",
+    "\"operations\"",
+    "\"calculator\"",
+    "\"mathematics\"]"
+  ],
+  "author": "vaishali",
+  "license": "MIT"
+}
